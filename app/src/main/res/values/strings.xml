@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Minimalist Timer</string>
+    <string name="timer_setup">Timer setup</string>
+    <string name="start">Start</string>
+    <string name="save">Save</string>
+    <string name="rest_layout">Rest</string>
+    <string name="rest">Rest.</string>
+    <string name="sets">Sets</string>
+    <string name="work">Work</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="colon">|</string>
+    <string name="double_zero">00</string>
+    <string name="enter_work_timer">Please enter the timers!</string>
+    <string name="good_job">Good Job!</string>
+    <string name="get_ready">Get Ready!</string>
+    <string name="go">Go!</string>
+    <string name="field_empty">Please populate the field!</string>
+    <string name="first_set">01</string>
+    <string name="remaining_sets">Sets: %1$d</string>
+
+    <string name="timer_name">Timer name placeholder</string>
+    <string name="action_delete">Delete</string>
+    <string name="saved_timer_numbers">Placeholder: 1 | 1 | 1</string>
+
+    <string name="dialog_timer_name">Timer name</string>
+    <string name="dialog_timer_desc">Please enter name of the timer: </string>
+    <string name="dialog_save_button">Save</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_warning">The timer did not save! Please enter name!</string>
+
+    <string name="save_success">Timer saved successfully</string>
+    
+    <string name="about_title">Minimalist Timer %1$s</string>
+    <string name="about_message">Developed by Nikola</string>
+
+    <string name="nothing_to_show">Nothing to show here.</string>
+    <string name="saved_timer_activity_title">Saved Timers</string>
+</resources>
